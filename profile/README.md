@@ -1,5 +1,8 @@
-![Naflows Logo](https://github.com/Naflows/naflows-auth/blob/main/assets/NAFLOWS_LOGO.png)
+<img width="1440" height="358" alt="nass-header" src="https://github.com/user-attachments/assets/4e6193fb-c1b4-48b8-b5ab-85e7d93d367e" />
+
+
 # Welcome to Naflows!
+
 
 Naflows is a business project rooted in open-source values, focused on secure environments, free access to code, and people-first development. Our mission is to build strong, independent, and reliable infrastructures that can host a wide range of services—always with simplicity, accessibility, and transparency in mind.
 
